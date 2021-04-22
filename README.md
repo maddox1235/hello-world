@@ -1,4 +1,4 @@
 # hello-world
-blah
+Blah
 
-i like to play on nintendo
+I like to play on Nintendo
